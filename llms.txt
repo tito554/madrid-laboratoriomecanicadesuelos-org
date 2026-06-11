@@ -1,0 +1,44 @@
+# Laboratoriomecanicadesuelos — Madrid
+
+> Geotechnical engineering services in Madrid, España.
+
+## Services
+- [Anclajes](https://madrid.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas Exploratorias](https://madrid.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Cbr Vial](https://madrid.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://madrid.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Columnas Grava](https://madrid.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Ensayo Cpt](https://madrid.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayo Triaxial](https://madrid.laboratoriomecanicadesuelos.org/ensayo-triaxial/)
+- [Excavaciones Subterraneo](https://madrid.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://madrid.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://madrid.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://madrid.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://madrid.laboratoriomecanicadesuelos.org/granulometria/)
+- [Laboratorio In Situ](https://madrid.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://madrid.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Licuefaccion](https://madrid.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://madrid.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://madrid.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Masw Vs30](https://madrid.laboratoriomecanicadesuelos.org/masw-vs30/)
+- [Mejoramiento](https://madrid.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://madrid.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://madrid.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://madrid.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://madrid.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://madrid.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad Campo](https://madrid.laboratoriomecanicadesuelos.org/permeabilidad-campo/)
+- [Pilotes](https://madrid.laboratoriomecanicadesuelos.org/pilotes/)
+- [Placa De Carga](https://madrid.laboratoriomecanicadesuelos.org/placa-de-carga/)
+- [Resistividad Electrica Sev](https://madrid.laboratoriomecanicadesuelos.org/resistividad-electrica-sev/)
+- [Sismica](https://madrid.laboratoriomecanicadesuelos.org/sismica/)
+- [Taludes](https://madrid.laboratoriomecanicadesuelos.org/taludes/)
+- [Tomografia Sismica](https://madrid.laboratoriomecanicadesuelos.org/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://madrid.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/)
+
+## Contact
+- Website: https://madrid.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Madrid, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
